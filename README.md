@@ -2,6 +2,8 @@
 
 This is Jack Strohm's Homebrew Tap. It contains formulae for software that is not available in the main Homebrew repository.
 
+TEST
+
 ## Installation
 
 To install the tap, run the following command:
