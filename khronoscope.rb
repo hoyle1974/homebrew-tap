@@ -2,7 +2,7 @@ class Khronoscope < Formula
   desc "A TUI for VCR controls while inspecting your k8s cluster."
   homepage "https://github.com/hoyle1974/khronoscope"
   url "https://github.com/hoyle1974/khronoscope/releases/download/main/khronoscope_darwin_amd64"
-  sha256 "e9f427871e791a238eda406b0c2d13b64ec24c3ba7e5426de8abb0f06de4f4bd"
+  sha256 "c68ca31423fc916cb1d72ddc3342fa50c79420dabd2134a9c52580d4ffe699f5"
   version "main"
 
   def install
